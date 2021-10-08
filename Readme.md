@@ -2,7 +2,7 @@
 
 This repository is provided as part of the our TSP paper:
 
-H. V. Nguyen,  H.  Rezatofighi, B.-N. Vo, D. Ranasinghe, "Distributed Multi-Object Tracking Under Limited Field of View Sensors". *IEEE Transactions on Signal Processing*, pp. 1-15, 2021. [Paper](https://arxiv.org/abs/2012.12990).
+H. V. Nguyen,  H.  Rezatofighi, B.-N. Vo, D. Ranasinghe, "Distributed Multi-Object Tracking Under Limited Field of View Sensors". *IEEE Transactions on Signal Processing*, vol. 69, pp. 5329-5344, 2021, doi: 10.1109/TSP.2021.3103125. [Paper](https://arxiv.org/abs/2012.12990).
 
 If you use our provided codes, please consider cite our paper using:
 
@@ -12,9 +12,10 @@ If you use our provided codes, please consider cite our paper using:
 	author={Nguyen, Hoa Van and Rezatofighi, Hamid and Vo, Ba-Ngu and Ranasinghe, Damith C},
 	journal = {{IEEE Transactions on Signal Processing}},
 	year={2021
-	volume={},
+	volume={69},
 	number={},
-	pages={1-15}
+	pages={5329-5344},
+	doi={10.1109/TSP.2021.3103125}
 }
 ```
 
